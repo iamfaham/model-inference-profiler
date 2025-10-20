@@ -2,8 +2,6 @@
 
 A PyTorch-based tool for profiling deep learning model inference performance, analyzing computational bottlenecks, and visualizing resource utilization.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iamfaham/model-inference-profiler/blob/main/model_inference_profiler.ipynb)
-
 ## Overview
 
 This project provides a comprehensive profiling solution for PyTorch models, enabling you to:
@@ -126,13 +124,3 @@ Contributions are welcome! Feel free to:
 ## License
 
 This project is open source and available under the MIT License.
-
-## Author
-
-Created by [@iamfaham](https://github.com/iamfaham)
-
-## Acknowledgments
-
-- Built with [PyTorch](https://pytorch.org/)
-- Model summaries powered by [torchinfo](https://github.com/TylerYep/torchinfo)
-- Pretrained models from [torchvision](https://pytorch.org/vision/stable/index.html)
